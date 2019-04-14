@@ -1,6 +1,6 @@
 {
   "name": "DeroGold Fun Bot",
-  "version": "1.4.0",
+  "version": "1.4.4",
   "description": "A fun Discord bot for the DeroGold Discord server.",
   "main": "server.js",
   "scripts": {
