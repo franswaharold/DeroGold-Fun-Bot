@@ -239,7 +239,7 @@ client.on('message', (message) => {
   const changelogEmbed = new Discord.RichEmbed()
   .setColor(0x49fc7e)
   .setTitle('**Changelog**')
-  .setAuthor('Version: 1.4.3')
+  .setAuthor('Version: 1.4.4')
   .setDescription('April 14, 2019\n\n• Updated Code and Released to Github for Public Use.')
   .setTimestamp()
   .setFooter('Prefix: ^ | This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.', 'https://i.imgur.com/O2xAaBK.png')
